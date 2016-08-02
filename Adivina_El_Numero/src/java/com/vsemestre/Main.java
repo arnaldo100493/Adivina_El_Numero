@@ -11,6 +11,10 @@ package com.vsemestre;
  */
 public class Main {
 
+    public Main() {
+
+    }
+
     /**
      * @param args the command line arguments
      */
